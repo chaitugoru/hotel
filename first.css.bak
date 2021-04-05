@@ -1,0 +1,83 @@
+#firstdiv{height:50px;
+          width:100%;
+		  background-color:blue}
+#firsth2{padding-top:2px;
+        padding-left:30px;
+		color:white;float:left;
+		font-weight:bold;
+		font-size:30px
+		}
+#first1h2{float:right;
+         padding-top:2px;
+		 font-weight:bold;
+		 color:white;
+		 padding-right:300px;
+		 font-size:30px}
+#firstdiv1{padding-left:200px;
+        padding-top:60px;
+		float:left;
+		font-size:20px;
+		}
+#firstdiv2{padding-top:0px;
+         }
+#firsttab{border-spacing:30px;
+          float:left}
+#firstlabl{padding-left:30px}
+#firstrow{font-weight:bold;
+          
+         }
+.firstcolumn{float:left;
+            padding-right:70px}
+#secondlabl{float:center;
+            font-size:25px;
+			color:white;
+			font-weight:bold;
+			 padding-top:6px;
+			 float:left;
+			padding-left:850px}
+#secondlabl1{float:right;
+         padding-top:2px;
+		 font-weight:bold;
+		 color:white;
+		 padding-right:50px;
+		 font-size:30px}
+#thirdlabl{color:green;
+          padding-left:180px}
+#fourthlabl{font-size:40px;
+            padding-left:30px}
+#fifthlabl{color:green;
+           padding-left:70px;
+		   font-size:15px}
+#footer{height:35px;
+       width:100%;
+	   background-color:gray;
+	   margin-top:580px}
+#sixlabl{color:green;
+        font-size:15px;
+		padding-left:30px}
+#sevenlabl{display:block;
+           padding-left:30px}
+#sevenip{margin-left:30px;
+         height:30px;
+		 width:800px}
+#seventabl{border-spacing:30px}
+#sevenlabl1{display:block
+            }
+#sevenip1{}
+
+
+#sevenlabl2{display:block;
+             padding-left:10px
+           
+           }
+#sevenlabl3{display:block}
+#sevenlabl4{display:block}
+#sevensel{width:150px}
+#sevenip2{background-color:blue;
+          text-align:center;
+		  height:20px;
+		  width:150px}
+
+
+
+

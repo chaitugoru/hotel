@@ -1,0 +1,25 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> sixth page </TITLE>
+  <link rel="stylesheet" href="style/first.css"></link>
+  
+ </HEAD>
+ <form>
+
+ <BODY>
+ <div id="firstdiv">
+ <label id="firsth2">truYum</label>
+ <label id="first1h2"><ins>Menu</ins></label>
+ </div>
+ <div id="firstdiv1">
+ <label id="firstlabl">Edit Menu Item status</label>
+ <label id="sixlabl">Menu item details saved successfully</label>
+  
+  </div>
+   <div id="footer"></div>
+  
+ 
+ </BODY>
+ </form>
+</HTML>
